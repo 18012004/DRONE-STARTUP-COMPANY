@@ -19,7 +19,6 @@ scan the qrcode
 
 
 
-![WhatsApp Image 2025-01-23 at 11 15 39_bee19373](https://github.com/user-attachments/assets/a84bc009-4f6a-4018-854d-8773eb2444a8)
 
 
 ![WhatsApp Image 2025-01-23 at 11 22 35_c7bc182a](https://github.com/user-attachments/assets/7d989bb0-55c8-4e19-9d58-20f637823029)
